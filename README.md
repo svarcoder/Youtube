@@ -36,7 +36,7 @@ Here is a list of technologies we use:
 The first step to running Youtube Clone locally is downloading the code by cloning the repository:
 
 ```sh
-git clone https://github.com/svarcoder/Youtube
+git clone https://github.com/svarcoder/Youtube.git
 ```
 
 After clone install the node modules:
